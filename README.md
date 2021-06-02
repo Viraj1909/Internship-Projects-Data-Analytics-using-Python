@@ -1,4 +1,4 @@
-# Internship-Projects-Data-Analytics-using-Python-<br>
+# Internship-Projects-Data-Analytics-using-Python<br>
 I have started an Internship program for 2 weeks which was an online internship. <br>
 Project's of Data Analytics using Python Domain were given as a task in this internship. <br>
 This Data Analytics using Python domain has in total 2 projects, namely:  <br>
